@@ -4,4 +4,4 @@ This repository cointains the code used in the short paper Satellite parking: a 
 
 The data used for this code is available at https://doi.org/10.34894/6XDN8I
 
-The paper will be linked once it is published. 
+Link to the paper: https://agile-giss.copernicus.org/articles/4/44/2023/
